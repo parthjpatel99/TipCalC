@@ -1,7 +1,5 @@
 # Tip Calculator - *A Dynamic Tip Calculator*
 
-## *Parth Patel*
-
 **TipCalC** computes the tip and total amount for a bill. The app uses the base amount and tip percentage to calculate the amount owed, and it also describes the quality of service based on the tip.
 
 ## Functionality 
